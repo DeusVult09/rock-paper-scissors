@@ -32,7 +32,7 @@ Rock-Paper-Scissors/
 
 In general, the project was very challenging but it allowed me to build basic JavaScript logic with DOM manipulation, turning a console-based game into an interactive web application. I learned the importance of structuring code for clarity, handling UI state changes and ensuring a smooth user experience across devices. Plus, I also gained practical experience with Git workflow and conflict resolution which will help me to manage future collaborative projects more efficiently.
 
-Game Live preview https://deusvult09.github.io/Rock-Paper-Scissors/
+Game Live preview https://deusvult09.github.io/rock-paper-scissors/
 
 ## Attribution
 
